@@ -39,7 +39,7 @@
 
 I build **data systems that scale** — from raw ingestion to business-ready models. My focus is the **modern data stack**: reliable ELT on **Snowflake**, clean and tested **dbt** models, and semantic layers that give teams one source of truth.
 
-I'm now extending that foundation into **applied GenAI** — my thesis focused on building and rigorously **evaluating RAG systems** (LLM-as-judge, retrieval metrics) with LangChain & LangGraph.
+I'm now extending that foundation into **trustworthy AI** — my MSc thesis tackles **uncertainty calibration in retrieval-augmented LLMs**: whether a model's confidence can be trusted for risk-sensitive decisions, and how embedding quality shapes that reliability (LLM-as-judge, retrieval metrics, LangChain & LangGraph).
 
 <br/>
 
