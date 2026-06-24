@@ -144,11 +144,11 @@ RAG pipelines with LangChain, Chroma & FAISS — rigorously evaluated with LLM-a
 
 | &nbsp; | Project | Stack | Status |
 |:---:|:--------|:------|:------:|
-| **01** | End-to-end ELT pipeline on Snowflake + dbt | `Snowflake` · `dbt` · `Python` | 🔨 Building |
-| **02** | Semantic layer — dbt metrics & exposures | `dbt` · `SQL` | 🔨 Building |
-| **03** | GenAI on structured data — Cortex AI | `Snowflake Cortex` · `Python` | 📐 Designing |
+| **01** | [**RAG Uncertainty Calibration**](https://github.com/shaikfakruddin2018/rag-uncertainty-calibration) — MSc thesis | `RAG` · `FAISS` · `scikit-learn` | ✅ Live |
+| **02** | [**Operations Copilot**](https://github.com/shaikfakruddin2018/operations-copilot) — NL→SQL analytics | `Snowflake Cortex` · `Streamlit` | ✅ Live |
+| **03** | End-to-end ELT pipeline on Snowflake + dbt | `Snowflake` · `dbt` · `Python` | 🔨 Building |
 
-<sub><i>Repos go live when they meet the quality bar — not before.</i></sub>
+<sub><i>BGE beat OpenAI embeddings · isotonic calibration cut ECE ~32% — see the thesis repo.</i></sub>
 
 <br/>
 
