@@ -7,7 +7,12 @@
   <img src="https://raw.githubusercontent.com/shaikfakruddin2018/shaikfakruddin2018/main/banner.svg" width="100%" alt="Shaik Fakruddin — Data & Analytics Engineer"/>
 </a>
 
-<br/>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-0a0c10?style=for-the-badge&labelColor=38bdf8&color=0a0c10)](https://shaikfakruddin2018.github.io)
+
+</div>
+
 <br/>
 
 <!-- ───────────────  INTRO  ─────────────── -->
@@ -20,6 +25,7 @@
 <br/>
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=flat-square&logo=googlechrome&logoColor=white)](https://shaikfakruddin2018.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/contactbaba-fakruddin-shaik)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shaikfakruddin2018@gmail.com)
 
