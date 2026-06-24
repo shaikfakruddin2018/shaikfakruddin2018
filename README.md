@@ -65,7 +65,7 @@ Clean, documented dbt models and semantic layers that give analysts a single sou
 <td width="33%" valign="top">
 
 #### 🤖&nbsp; AI on Data
-Snowflake Cortex AI applied to structured data — bringing LLMs on top of trustworthy models.
+RAG pipelines with Chroma & FAISS, plus Snowflake Cortex — LLMs grounded on trustworthy data, with evaluation built in.
 
 </td>
 </tr>
@@ -73,20 +73,59 @@ Snowflake Cortex AI applied to structured data — bringing LLMs on top of trust
 
 <br/>
 
-<!-- ───────────────  CORE STACK  ─────────────── -->
-## Core Stack
+<!-- ───────────────  SKILLS  ─────────────── -->
+## Skills
 
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-&nbsp;
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-&nbsp;
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-&nbsp;
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-&nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+<table border="0">
+<tr>
+<td valign="top"><b>🏗️&nbsp; Data Engineering<br/>&&nbsp;Analytics</b></td>
+<td>
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<br/>
+![ELT](https://img.shields.io/badge/ETL_&_ELT_Pipelines-1f2937?style=flat-square)
+![Testing](https://img.shields.io/badge/Data_Quality_&_Testing-1f2937?style=flat-square)
+![Semantic Layer](https://img.shields.io/badge/Semantic_Layer-1f2937?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>📐&nbsp; Data Modeling</b></td>
+<td>
+
+![Dimensional](https://img.shields.io/badge/Dimensional_Modeling-1f2937?style=flat-square)
+![Data Mesh](https://img.shields.io/badge/Data_Mesh_Concepts-1f2937?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>🤖&nbsp; AI&nbsp;/&nbsp;GenAI</b></td>
+<td>
+
+![LLMs](https://img.shields.io/badge/LLMs-8b5cf6?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8b5cf6?style=flat-square)
+![Chroma](https://img.shields.io/badge/Chroma-8b5cf6?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-8b5cf6?style=flat-square)
+![AI Eval](https://img.shields.io/badge/AI_Evaluation-8b5cf6?style=flat-square)
+![Cortex](https://img.shields.io/badge/Snowflake_Cortex_AI-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>📊&nbsp; BI&nbsp;&&nbsp;Tooling</b></td>
+<td>
+
+![Power BI](https://img.shields.io/badge/Power_BI_&_DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
