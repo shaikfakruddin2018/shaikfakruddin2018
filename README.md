@@ -33,7 +33,7 @@
 
 I build **data systems that scale** — from raw ingestion to business-ready models. My focus is the **modern data stack**: reliable ELT on **Snowflake**, clean and tested **dbt** models, and semantic layers that give teams one source of truth.
 
-I'm now extending that foundation into **AI on structured data** with Snowflake Cortex.
+I'm now extending that foundation into **applied GenAI** — my thesis focused on building and rigorously **evaluating RAG systems** (LLM-as-judge, retrieval metrics) with LangChain & LangGraph.
 
 <br/>
 
@@ -65,7 +65,7 @@ Clean, documented dbt models and semantic layers that give analysts a single sou
 <td width="33%" valign="top">
 
 #### 🤖&nbsp; AI on Data
-RAG pipelines with Chroma & FAISS, plus Snowflake Cortex — LLMs grounded on trustworthy data, with evaluation built in.
+RAG pipelines with LangChain, Chroma & FAISS — rigorously evaluated with LLM-as-judge and retrieval metrics (MRR, nDCG, recall, precision).
 
 </td>
 </tr>
@@ -107,9 +107,13 @@ RAG pipelines with Chroma & FAISS, plus Snowflake Cortex — LLMs grounded on tr
 
 ![LLMs](https://img.shields.io/badge/LLMs-8b5cf6?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-8b5cf6?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-8b5cf6?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-8b5cf6?style=flat-square)
 ![Chroma](https://img.shields.io/badge/Chroma-8b5cf6?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-8b5cf6?style=flat-square)
-![AI Eval](https://img.shields.io/badge/AI_Evaluation-8b5cf6?style=flat-square)
+<br/>
+![LLM-as-Judge](https://img.shields.io/badge/LLM--as--Judge-7c3aed?style=flat-square)
+![Retrieval Metrics](https://img.shields.io/badge/Retrieval_Eval_·_MRR_·_nDCG_·_Recall_·_Precision-7c3aed?style=flat-square)
 ![Cortex](https://img.shields.io/badge/Snowflake_Cortex_AI-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
 </td>
