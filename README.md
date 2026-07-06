@@ -139,16 +139,37 @@ RAG pipelines with LangChain, Chroma & FAISS — rigorously evaluated with LLM-a
 
 <br/>
 
-<!-- ───────────────  CURRENTLY SHIPPING  ─────────────── -->
-## Currently Shipping
+<!-- ───────────────  PROJECTS BY ROLE  ─────────────── -->
+## Projects — by Target Role
 
-| &nbsp; | Project | Stack | Status |
-|:---:|:--------|:------|:------:|
-| **01** | [**RAG Uncertainty Calibration**](https://github.com/shaikfakruddin2018/rag-uncertainty-calibration) — MSc thesis | `RAG` · `FAISS` · `scikit-learn` | ✅ Live |
-| **02** | [**Enterprise Retail Data Mesh**](https://github.com/shaikfakruddin2018/enterprise-retail-data-mesh-snowflake) — dbt · Terraform · Cortex AI | `Snowflake` · `dbt` · `Terraform` | ✅ Live |
-| **03** | [**Operations Copilot**](https://github.com/shaikfakruddin2018/operations-copilot) — NL→SQL analytics | `Snowflake Cortex` · `Streamlit` | ✅ Live |
+Work mapped to the roles I'm targeting. **✅ Live** links to code; **🔜 Coming soon** is on the near-term roadmap.
 
-<sub><i>BGE beat OpenAI embeddings · isotonic calibration cut ECE ~32% — see the thesis repo.</i></sub>
+### 📊 Data Analyst
+| Project | Stack | Status |
+|:--------|:------|:------:|
+| **Executive Sales Intelligence Dashboard** — KPIs, segmentation, forecasting, drill-through | `Power BI` · `SQL` · `Python` · `Snowflake` | 🔜 Coming soon |
+| **Customer Churn Analytics Platform** — churn prediction, cohorts, CLV, root-cause | `Python` · `SQL` · `Power BI` · `Snowflake` | 🔜 Coming soon |
+
+### 🏗️ Data Engineer
+| Project | Stack | Status |
+|:--------|:------|:------:|
+| [**Enterprise Retail Data Mesh**](https://github.com/shaikfakruddin2018/enterprise-retail-data-mesh-snowflake) — ELT, RBAC, data quality, IaC, CI/CD | `Snowflake` · `dbt` · `Terraform` · `GitHub Actions` | ✅ Live |
+| **Streaming Data Lakehouse** — real-time ingestion, stream processing, governance | `Snowflake` · `Kafka` · `Python` · `Terraform` | 🔜 Coming soon |
+
+### 📐 Analytics Engineer
+| Project | Stack | Status |
+|:--------|:------|:------:|
+| [**Enterprise Retail Data Mesh**](https://github.com/shaikfakruddin2018/enterprise-retail-data-mesh-snowflake) — dbt medallion, domain data products, semantic layer | `dbt` · `Snowflake` · `Cortex AI` · `Streamlit` | ✅ Live |
+| **Modern Metrics Layer** — reusable business metrics, data contracts, lineage, tests | `dbt` · `Snowflake` · `Semantic Views` · `Streamlit` | 🔜 Coming soon |
+
+### 🤖 AI Engineer
+| Project | Stack | Status |
+|:--------|:------|:------:|
+| [**Operations Copilot**](https://github.com/shaikfakruddin2018/operations-copilot) — NL→SQL, semantic search, AI-explained results | `Cortex Analyst` · `Streamlit` · `OpenAI` | ✅ Live |
+| [**RAG Uncertainty Calibration**](https://github.com/shaikfakruddin2018/rag-uncertainty-calibration) — MSc thesis, LLM-as-judge, calibration | `RAG` · `FAISS` · `scikit-learn` | ✅ Live |
+| **Enterprise RAG Platform** — document KB, vector search, citations, chat | `Cortex Search` · `Vector Search` · `Streamlit` · `Python` | 🔜 Coming soon |
+
+<sub><i>BGE beat OpenAI embeddings · isotonic calibration cut ECE ~32% — see the thesis repo. Roadmap projects ship when they meet the quality bar.</i></sub>
 
 <br/>
 
